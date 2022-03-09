@@ -157,15 +157,19 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
